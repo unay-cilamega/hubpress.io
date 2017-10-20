@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://unay-cilamega.github.io",
+    "hubpress": "https://unay-cilamega.github.io",
+    "theme": "//unay-cilamega.github.io/themes/casper",
+    "images": "https://unay-cilamega.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
